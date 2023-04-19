@@ -1,1 +1,2 @@
-Este texto se guardará en el comit1
+Este texto se guardará en el commit1
+Este texto se guardará en el commit2
