@@ -1,3 +1,4 @@
 Este texto se guardará en el commit1
 Este texto se guardará en el commit2
 Este texto se guardará en el commit2
+Este texto se ha añadido en la versión beta
